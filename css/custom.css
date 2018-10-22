@@ -1,0 +1,81 @@
+h1.mainTitle{
+font-size:35px;
+color:#ccc;	
+
+}
+
+th.bg_objective{
+font-size:25px;
+color:#fff;	
+background:rgb(29,119,239);
+}
+
+th.bg_acciones{
+font-size:25px;
+color:#fff;	
+background:rgb(0,122,255);
+}
+
+th.bg_fecha{
+font-size:25px;
+color:#fff;	
+background:rgb(91,202,255);
+}
+
+span.minporactividad{
+border:1px solid #ccc;
+padding:4px;
+background:rgb(164,231,134);
+border-radius:3px;
+}
+
+
+
+
+td.titleObjective{
+font-size:22px;
+color:rgb(74,74,74);
+}
+
+td.accionesObjective{
+font-size:18px;	
+color:rgb(74,74,74);
+}
+
+td.accionesFecha{
+font-size:18px;	
+color:rgb(74,74,74);
+}
+
+.chop {
+font-family: 'Raleway', sans-serif;
+font-size:15px;
+} 
+
+.silentHr{
+border:0px;	
+}
+
+/*
+#pictureplace img{
+width:200px;
+}
+*/
+
+#textareaIMG{
+width:1000px;	
+}
+
+a.carpetas{
+background:#5bcaff;
+margin-left:-15px;
+padding:25px;
+border-bottom-right-radius:10px;
+font-family: 'Raleway', sans-serif;
+color:#fff;
+font-size:15px;
+}
+
+a.carpetas i{
+	margin-top:20px;
+}
